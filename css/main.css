@@ -38,3 +38,6 @@ body {
   header {
   text-align: center;
 }
+section {
+  border: 1px solid white;
+}
