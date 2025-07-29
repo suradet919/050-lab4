@@ -41,3 +41,7 @@ body {
 section {
   border: 1px solid white;
 }
+nav {
+  margin: 0 85px 0 0;
+  float: left;
+}
