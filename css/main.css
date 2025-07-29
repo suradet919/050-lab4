@@ -11,7 +11,8 @@ aside p+p{
     color: #ffffff;
 }
 section{
-    box-shadow: white;
+    box-shadow: rgb(255, 255, 255);
+    text-align: left;
 }
 #jupiter{
 
@@ -40,12 +41,29 @@ body {
 }
 section {
   border: 1px solid white;
+  padding: 20px;
 }
 nav {
-  margin: 0 85px 0 0;
-  float: left;
+  margin: 0 0 0 85px;
+  text-align: left;
 }
+  nav a {
+    color: rgb(255, 153, 0);
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+a:any-link {
+    color : rgb(255, 153, 0);
+}
+
 footer {
   text-align: center;
   background-color: blue;
+  padding: 10px;
+  border: 1px solid white;
+  
 }
