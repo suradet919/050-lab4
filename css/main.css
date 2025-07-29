@@ -1,20 +1,20 @@
 tr td{
-    color: #ff0404;
+    color: #ffffff;
 }
 #tbody2>tr{
-    color: #04ecff;
+    color: #ffffff;
 }
 aside p+p{
     color: #04ff48;
 }
 #saturn th {
-    color: #04ecff;
-  }
+    color: #ffffff;
+}
 section{
-    box-shadow: 10px 5px 10px rgba(255, 255,255,1);
-    border-radius: 10px;
+    box-shadow: white;
 }
 #jupiter{
+
     background-image: url(../images/Jupiter.jpg);
 }
 #saturn{
@@ -34,4 +34,7 @@ body {
   color: white;
   font-size: 20px;
   font-family: sans-serif;
+}
+section {
+  border: 1px solid white;
 }
