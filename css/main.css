@@ -35,10 +35,6 @@ body {
   font-size: 20px;
   font-family: sans-serif;
 }
-section {
-  border: 1px solid white;
-}
-nav {
-  margin: 0 85px 0 0;
-  float: left;
+  header {
+  text-align: center;
 }
